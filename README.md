@@ -17,6 +17,8 @@ execution-management
 
 **Executive Summary**
 
+![Image](https://github.com/user-attachments/assets/90b773d5-6f55-47b0-91fd-38ed9e44a67c)
+
 Text
 
 Generated with [Rytr](https://app.rytr.me)
